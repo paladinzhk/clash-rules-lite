@@ -66,3 +66,7 @@ IP-CIDR,124.223.125.82/443,no-resolve
 #百度
 DOMAIN-SUFFIX,baidu.com
 #百度 以上
+
+#csdn
+DOMAIN-SUFFIX,csdn.net
+#csdn 以上

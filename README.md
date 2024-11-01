@@ -20,9 +20,9 @@
 
 <p>
   <pre align="center">
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/proxy-rules.txt    
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/microsoft-rules.txt
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/blacklist-rules.txt</pre>
+  https://cdn.jsdelivr.net/gh/paladinzhk/clash-rules-lite@release/Main.rules.ini 
+  https://cdn.jsdelivr.net/gh/paladinzhk/clash-rules-lite@release/Direct.rules.list
+  https://cdn.jsdelivr.net/gh/paladinzhk/clash-rules-lite@release/Proxy.rules.list</pre>
 </p>
 <p align="center">
 已稳定使用2年的机场推荐：https://sspcloud.net/#/register?code=4L83QEU9

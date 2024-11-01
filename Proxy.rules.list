@@ -3,7 +3,6 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,.cn
-IP-CIDR,18.136.172.41/21114,no-resolve
 
 # Apple
 # 一般国内Apple肯定正常,不需要开代理

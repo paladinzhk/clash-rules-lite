@@ -13,8 +13,8 @@ DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,safebrowsing.apple
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
+#DOMAIN-SUFFIX,apple.com
+#DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
@@ -38,27 +38,27 @@ IP-CIDR,205.180.175.0/24,no-resolve
 #Apple 以上
 
 #微信
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,wechatpay.cn
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,scdsjzx.com
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,weixinconf.qq.com
-DOMAIN-SUFFIX,wxs.qq.com
-DOMAIN-SUFFIX,weixinconf.qq.com
-DOMAIN-SUFFIX,wechatapp.com
-DOMAIN-SUFFIX,xdow.net
-DOMAIN-KEYWORD,weixin
-DOMAIN-KEYWORD,wechat
-IP-CIDR,43.129.255.38/18,no-resolve
-IP-CIDR,129.206.106.198/16,no-resolve
-IP-CIDR,129.226.106.198/20,no-resolve
-IP-CIDR,120.232.51.42/16,no-resolve
-IP-CIDR,202.108.22.5/18,no-resolve
-IP-CIDR,124.223.125.82/443,no-resolve
+#DOMAIN-SUFFIX,wechat.com
+#DOMAIN-SUFFIX,qpic.cn
+#DOMAIN-SUFFIX,wechatpay.cn
+#DOMAIN-SUFFIX,qlogo.cn
+#DOMAIN-SUFFIX,qq.com
+#DOMAIN-SUFFIX,servicewechat.com
+#DOMAIN-SUFFIX,scdsjzx.com
+#DOMAIN-SUFFIX,servicewechat.com
+#DOMAIN-SUFFIX,weixinconf.qq.com
+#DOMAIN-SUFFIX,wxs.qq.com
+#DOMAIN-SUFFIX,weixinconf.qq.com
+#DOMAIN-SUFFIX,wechatapp.com
+#DOMAIN-SUFFIX,xdow.net
+#DOMAIN-KEYWORD,weixin
+#DOMAIN-KEYWORD,wechat
+#IP-CIDR,43.129.255.38/18,no-resolve
+#IP-CIDR,129.206.106.198/16,no-resolve
+#IP-CIDR,129.226.106.198/20,no-resolve
+#IP-CIDR,120.232.51.42/16,no-resolve
+#IP-CIDR,202.108.22.5/18,no-resolve
+#IP-CIDR,124.223.125.82/443,no-resolve
 #微信 以上
 
 #百度

@@ -2,7 +2,6 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,.cn
 
 # Apple
 # 一般国内Apple肯定正常,不需要开代理

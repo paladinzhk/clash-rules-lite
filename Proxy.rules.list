@@ -65,10 +65,6 @@ IP-CIDR,205.180.175.0/24,no-resolve
 DOMAIN-SUFFIX,baidu.com
 #百度 以上
 
-#csdn
-DOMAIN-SUFFIX,csdn.net
-#csdn 以上
-
 #Bilibili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
